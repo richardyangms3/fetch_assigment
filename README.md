@@ -3,7 +3,7 @@
 ```
 python3 mycode.py {point to spend}
 ```
-## Implementation (detailed implementation and concerns are in mycode.py's comments)
+## Implementation (detailed explanation and concerns are in mycode.py's comments)
 1. calculate the total points for each payer
 2. sort transactions based on timestamps
 3. iterate sorted transaction and determine how much points should cost per iteration
